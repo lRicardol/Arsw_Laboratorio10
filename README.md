@@ -45,6 +45,36 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 6. Cree una nueva Function que resuleva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memoization. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?.
 
+### Proceso
+
+![Captura de pantalla 2025-11-22 175151.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20175151.png)
+
+![Captura de pantalla 2025-11-22 182526.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20182526.png)
+
+![Captura de pantalla 2025-11-22 183343.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20183343.png)
+
+![Captura de pantalla 2025-11-22 184506.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20184506.png)
+
+![Captura de pantalla 2025-11-22 192031.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20192031.png)
+
+![Captura de pantalla 2025-11-22 192257.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20192257.png)
+
+![Captura de pantalla 2025-11-22 192639.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20192639.png)
+
+![Captura de pantalla 2025-11-22 192754.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20192754.png)
+
+![Captura de pantalla 2025-11-22 182118.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20182118.png)
+
+![Captura de pantalla 2025-11-22 193719.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20193719.png)
+
+![Captura de pantalla 2025-11-22 195156.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20195156.png)
+
+![Captura de pantalla 2025-11-22 200353.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20200353.png)
+
+![Captura de pantalla 2025-11-22 200246.png](images/Proceso/Captura%20de%20pantalla%202025-11-22%20200246.png)
+
+![Captura de pantalla 2025-11-23 154906.png](images/Proceso/Captura%20de%20pantalla%202025-11-23%20154906.png)
+
 **Preguntas**
 
 * ¿Qué es un Azure Function?
